@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.delasystems.fooddata";
+option java_multiple_files = true;
+
+message FoodDataPrefs {
+  string search_anywords = 1;
+  string search_allwords = 2;
+  string search_nonewords = 3;
+}
