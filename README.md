@@ -2,7 +2,7 @@ ROY WATSON
 
 ***FoodData Project***
 
-**Description:**
+<u>**Description:**</u>
 
 I wanted to create a sample/demo app to use to illustrate my skills and competencies in modern Android development technologies. My hope is that it can also prove to be educational and helpful for others. It specifically demonstrates:
 
@@ -50,11 +50,11 @@ I chose to use the USDA’s *FoodData Central* online database (<https://fdc.nal
 
 - Recently, the USDA has been adding “Branded” foods; those from commercial sources with public brand names such as
 
-**Implementation Strategy:**
+<u>**Implementation Strategy:**</u>
 
 I am starting with functionality before style. I am getting all of the plumbing in place and will develop the UI around that.
 
-**Build and Run the app:**
+<u>**Build and Run the app:**</u>
 
 You will need to obtain a free API key. You can acquire one at <https://fdc.nal.usda.gov/api-key-signup.html>
 
@@ -64,7 +64,7 @@ FOODDATA_KEY="\<your_api_key\>"
 
 Import the code into a new Android Project.
 
-**Status:**
+<u>**Status:**</u>
 
 The current repo has a rudimentary UI, enough to exercise the search functionality and display the resultant data set.
 
@@ -82,7 +82,7 @@ The results of the search are displayed in a currently rudimentary list of Mater
 
 Clicking on any card will navigate to a currently immature screen that displays the nutritional details of the selected food.
 
-**Near-term Plan:**
+<u>**Near-term Plan:**</u>
 
 To-do (in no particular order):
 
@@ -98,7 +98,7 @@ To-do (in no particular order):
 
 - Polish the UI.
 
-**Long-term Future:**
+<u>**Long-term Future:**</u>
 
 To-do (in no particular order):
 
@@ -112,7 +112,7 @@ To-do (in no particular order):
 
 - Allow “check-off” of picked items.
 
-**Xtra-Long-term Future:**
+<u>**Xtra-Long-term Future:**</u>
 
 To-do (in no particular order):
 
@@ -124,7 +124,7 @@ To-do (in no particular order):
 
 - Allow price entry when picking items (possible price scan? Text? Or Barcode?).
 
-**License:**
+<u>**License:**</u>
 
 Copyright (C) 2022 Roy Watson​
 
